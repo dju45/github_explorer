@@ -28,7 +28,7 @@ const Results = () => (
         resultsInfo: 'result-list-info',
         poweredBy: 'powered-by',
       }}
-      size={6}
+      size={9}
     />
   </div>
 );
